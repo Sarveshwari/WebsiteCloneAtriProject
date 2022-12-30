@@ -1,0 +1,242 @@
+.p-clone.Flex9 {
+display: flex;
+width: 100%;
+align-items: center;
+justify-content: center;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+.p-clone.Flex6 {
+display: flex;
+justify-content: space-between;
+width: 80%;
+}
+.p-clone.Flex7 {
+display: flex;
+}
+.p-clone.Flex8 {
+display: flex;
+justify-content: space-between;
+column-gap: 24px;
+font-family: IBM Plex Sans;
+font-weight: normal;
+text-align: left;
+font-size: ;
+}
+.p-clone.Flex12 {
+display: flex;
+column-gap: 15px;
+}
+.p-clone.Flex43 {
+display: flex;
+width: ;
+}
+.p-clone.Flex44 {
+display: flex;
+flex-direction: column;
+width: ;
+row-gap: ;
+}
+.p-clone.Flex354 {
+display: flex;
+justify-content: flex-end;
+flex-direction: column-reverse;
+padding-left: ;
+width: 125px;
+height: 60px;
+}
+.p-clone.Flex355 {
+display: flex;
+width: 124px;
+height: 54px;
+background-image: url("/app-assets/angryimg%20(2).png");
+position: relative;
+top: 1px;
+padding-left: ;
+}
+.p-clone.Flex364 {
+display: flex;
+width: 124px;
+height: 54px;
+background-image: url("/app-assets/angryimg%20(2).png");
+position: relative;
+top: 1px;
+padding-left: ;
+}
+.p-clone.Flex362 {
+display: flex;
+column-gap: 40px;
+row-gap: ;
+justify-content: flex-start;
+padding-left: 100px;
+padding-top: 25px;
+padding-bottom: 20px;
+}
+.p-clone.Flex361 {
+display: flex;
+column-gap: 10px;
+}
+.p-clone.Flex365 {
+display: flex;
+height: 60px;
+background-image: url("/app-assets/angryimg%20(2).png");
+width: 180px;
+}
+.p-clone.Button21 {
+color: #fff;
+background-color: #000000;
+padding-top: 11px;
+padding-left: 21px;
+padding-bottom: 11px;
+padding-right: 21px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+width: ;
+height: 55px;
+}
+.p-clone.Image11 {
+;
+}
+.p-clone.TextBox11 {
+;
+}
+.p-clone.TextBox12 {
+;
+}
+.p-clone.TextBox14 {
+;
+}
+.p-clone.TextBox15 {
+;
+}
+.p-clone.TextBox17 {
+font-family: IBM Plex Sans;
+padding-top: ;
+padding-left: ;
+padding-right: 10px;
+}
+.p-clone.Image10 {
+background-position-y: ;
+padding-top: ;
+padding-bottom: 5px;
+}
+.p-clone.Image26 {
+width: 40%;
+}
+.p-clone.TextBox40 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 55px;
+padding-left: 85px;
+padding-top: 40px;
+}
+.p-clone.Button10 {
+color: #fff;
+background-color: #000000;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+width: 120px;
+height: 50px;
+font-family: IBM Plex Sans;
+position: relative;
+right: 4px;
+bottom: 4px;
+}
+.p-clone.Button18 {
+color: #fff;
+background-color: #000000;
+padding-top: 11px;
+padding-left: 21px;
+padding-bottom: 11px;
+padding-right: 21px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+width: ;
+height: 55px;
+font-family: IBM Plex Sans;
+position: relative;
+right: 4px;
+bottom: 4px;
+}
+.p-clone.Button15 {
+color: #fff;
+background-color: #000000;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+width: 120px;
+height: 50px;
+font-family: IBM Plex Sans;
+}
+.p-clone.TextBox229 {
+font-family: IBM Plex Sans;
+padding-top: 14px;
+font-size: 15px;
+font-weight: 600;
+}
+.p-clone.Image199 {
+width: 12%;
+padding-bottom: 10px;
+padding-top: 9px;
+}
+.p-clone.Button17 {
+color: #fff;
+background-color: #000000;
+padding-top: 11px;
+padding-left: 21px;
+padding-bottom: 11px;
+padding-right: 21px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+width: ;
+height: 55px;
+}
