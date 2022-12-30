@@ -1,2 +1,2 @@
-import "./colors.css";
+import "./ExternalCSS.css";
 

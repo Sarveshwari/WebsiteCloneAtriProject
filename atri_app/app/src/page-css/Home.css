@@ -1164,6 +1164,9 @@ font-size: 50px;
 font-weight: 700;
 padding-left: 100px;
 padding-top: 20px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox224 {
 font-family: IBM Plex Sans;
@@ -1247,6 +1250,9 @@ padding-right: 180px;
 font-family: IBM Plex Sans;
 font-weight: 600;
 font-size: 19px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.Image39 {
 width: 60px;
@@ -1391,6 +1397,9 @@ height: 20px;
 font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 19px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox81 {
 font-family: IBM Plex Sans;
@@ -1455,6 +1464,9 @@ width: 310px;
 padding-top: 20px;
 padding-bottom: ;
 padding-left: 20px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox88 {
 font-family: IBM Plex Sans;
@@ -1464,6 +1476,9 @@ width: 310px;
 padding-left: 20px;
 padding-top: 20px;
 padding-bottom: ;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox89 {
 font-family: IBM Plex Sans;
@@ -1474,6 +1489,9 @@ padding-top: 20px;
 padding-left: 20px;
 padding-bottom: ;
 background-color: #ffffff;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox90 {
 font-family: IBM Plex Sans;
@@ -1566,6 +1584,9 @@ color: #ffffff;
 font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 19px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox107 {
 color: #ffffff;
@@ -1800,6 +1821,9 @@ font-family: IBM Plex Sans;
 font-weight: 600;
 font-size: 19px;
 padding-bottom: 10px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox159 {
 padding-left: 80px;
@@ -2091,6 +2115,9 @@ color: #000000;
 font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 19px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox192 {
 padding-left: 80px;
@@ -2135,6 +2162,9 @@ color: #ffffff;
 font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 19px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.TextBox198 {
 padding-left: 80px;
@@ -2297,6 +2327,9 @@ font-size: 40px;
 color: #ffffff;
 width: ;
 padding-right: 40px;
+background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .p-Home.Image196 {
 width: 195px;
